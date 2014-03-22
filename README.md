@@ -1,4 +1,4 @@
-wordpress-blank-theme
+Blank Wordpress Theme
 =====================
 
 Wordpress's Blank Theme 
